@@ -892,7 +892,7 @@ else
 <p/>
 <iframe width="600" height="338" src="https://www.youtube.com/embed/videoseries?list=PLGiO-IWZB7WbU6yh23al3mpAUS3Xw-xLK" frameborder="0" allowfullscreen></iframe>
 <p/>
-<iframe src="http://www.elearningplugins.com/wordpresspluginlatestcamtasiatrial.html.html" width="600px" frameborder="0">
+<iframe src="http://www.elearningplugins.com/wordpresspluginlatestcamtasiatrial.html" width="600px" frameborder="0">
 </iframe><p/>
 
 
