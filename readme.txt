@@ -13,6 +13,8 @@ This plugin will add a new toolbar icon (the Camtasia logo) next to the 'Add Med
 
 Built for Camtasia, but works with any MP4 file!  Try it with MP4 files created with Articulate Replay, Adobe Premiere, or any other video production software!
 
+https://www.youtube.com/watch?v=fSEHeIatOzE
+
 == Installation ==
 
 1. Upload the 'insert-or-embed-Camtasia-into-wordpress' folder to the `/wp-content/plugins/` directory. Activate the plugin through the 'Plugins' menu in WordPress
