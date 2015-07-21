@@ -5,7 +5,7 @@ Tags: Camtasia, insert, embed, iframe, elearning, mp4, techsmith, articulate, re
 Requires at least: 4.2.2
 Tested up to: 4.2.2
 Stable tag: 1.0
-Quickly embed or insert Camtasia content into a post or page
+Quickly embed or insert Camtasia content into a post or page. Built for Camtasia, but works with any MP4 file! Try it with MP4 files created with Articulate Replay, Adobe Premiere, or any other video production software!
 
 == Description ==
 
