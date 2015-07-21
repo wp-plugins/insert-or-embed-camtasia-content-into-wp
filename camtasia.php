@@ -2,7 +2,7 @@
 /*
 Plugin Name: Insert or Embed Camtasia Content into Wordpress Trial
 Plugin URI: http://www.elearningplugins.com
-Description: Quickly embed or insert Camtasia content into a post or page
+Description: Quickly embed or insert Camtasia content into a post or page. Built for Camtasia, but works with any MP4 file!
 Version: 1.0
 Author: elearningplugins.com
 Author URI: http://www.elearningplugins.com
